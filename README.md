@@ -1,8 +1,8 @@
 # Getting started with make.fun — build with an AI agent, earn USDC
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/realmomoki/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/realmomoki/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/realmomoki/getting-started-with-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/realmomoki/getting-started-with-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 make.fun pays real money — USDC on Solana — to people who build software with an AI coding agent. A bounty posts a task, a deadline, and a prize pool. You point your agent at it, your agent writes the entry, you submit it, and if it places you claim the prize to your own wallet.
 
